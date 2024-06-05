@@ -46,3 +46,22 @@ nav a {
     display: block;
 }
 
+.about-jurgen {
+    background-color:darkred ;
+    padding: 2%;
+    color: white;
+}
+
+.red-and-white {
+    float:left;
+    width: 20%;
+    height: 20%;
+    margin-top: 1%;
+}
+
+#red-and-white-boss {
+    float: right;
+    width: 17.5%;
+    height: 20%;
+    margin-top: 0.25%;
+}
