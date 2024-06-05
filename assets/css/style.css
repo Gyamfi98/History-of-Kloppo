@@ -30,6 +30,9 @@ h1, h2{
 
 h1 {
     text-align: center;
+    background-color: black;
+    color: antiquewhite;
+    padding: 2.5%;
 }
 
 
