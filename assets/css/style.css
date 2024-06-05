@@ -1,6 +1,9 @@
 body {
     font-family: 'Courier New', Courier, monospace;
    font-size: 15px;
+   background-color: burlywood;
+   padding: 2.5%;
+   margin: 2.5;
 }
 
 #beginning {
