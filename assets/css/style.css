@@ -1,15 +1,13 @@
 body {
-    font-family: 'Courier New', Courier, monospace;
+   font-family: 'Courier New', Courier, monospace;
    font-size: 15px;
    background-color: burlywood;
    padding: 2.5%;
-   margin: 2.5;
+   margin: 2.5%;
 }
-
-#beginning {
-    text-align: right;
-    display: block;
-    background-color:darkred ;
+   
+html {
+    scroll-behavior: smooth;
 }
 
 nav ul {
@@ -59,7 +57,7 @@ nav a {
     float:left;
     width: 20%;
     height: 20%;
-    margin-top: 1%;
+    margin-right: 2.5%;
 }
 
 #red-and-white-boss {
@@ -67,6 +65,8 @@ nav a {
     width: 17.5%;
     height: 20%;
     margin-top: 0.25%;
+    margin-bottom: 0.25%;
+    margin-left: 2.5%;
 }
 
 img {
@@ -74,11 +74,11 @@ img {
     height: 15%;
 }
 
-#right {
+.right {
     text-align: right;
 }
 
-#left {
+.left {
     text-align: left;
 }
 
