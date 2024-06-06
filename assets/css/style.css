@@ -1,11 +1,11 @@
 body {
-   font-family: 'Courier New', Courier, monospace;
-   font-size: 15px;
-   background-color: burlywood;
-   padding: 2.5%;
-   margin: 2.5%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    background-color: burlywood;
+    padding: 2.5%;
+    margin: 2.5%;
 }
-   
+
 html {
     scroll-behavior: smooth;
 }
@@ -22,7 +22,8 @@ nav li {
     margin: 2.5%;
 }
 
-h1, h2{    
+h1,
+h2 {
     text-transform: uppercase;
 }
 
@@ -34,7 +35,7 @@ h1 {
 }
 
 h4 {
-    text-align:end;
+    text-align: end;
 }
 
 nav a:hover {
@@ -48,13 +49,13 @@ nav a {
 }
 
 .about-jurgen {
-    background-color:darkred ;
+    background-color: darkred;
     padding: 2%;
     color: white;
 }
 
 .red-and-white {
-    float:left;
+    float: left;
     width: 20%;
     height: 20%;
     margin-right: 2.5%;
@@ -84,5 +85,5 @@ img {
 
 .black-and-yellow {
     float: right;
-    margin-left: 2.5%;   
+    margin-left: 2.5%;
 }
