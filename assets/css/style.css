@@ -54,21 +54,9 @@ nav a {
     color: white;
 }
 
-.red-and-white {
-    float: left;
-    width: 20%;
-    height: 20%;
-    margin-right: 2.5%;
-}
 
-#red-and-white-boss {
-    float: right;
-    width: 17.5%;
-    height: 20%;
-    margin-top: 0.25%;
-    margin-bottom: 0.25%;
-    margin-left: 2.5%;
-}
+
+
 
 img {
     width: 15%;
@@ -83,10 +71,9 @@ img {
     text-align: left;
 }
 
-.black-and-yellow {
-    float: right;
-    margin-left: 2.5%;
-}
+
+
+
 
 footer {
 	background-color: darkgoldenrod;
