@@ -55,9 +55,6 @@ nav a {
 }
 
 
-
-
-
 img {
     width: 15%;
     height: 15%;
@@ -71,14 +68,10 @@ img {
     text-align: left;
 }
 
-
-
-
-
 footer {
 	background-color: darkgoldenrod;
     text-align: center;
-	padding: 1em;
+    padding: 1em;
     height: 8.5%;
     width: 100%;
     position: fixed;
@@ -89,9 +82,21 @@ footer {
 
 @media screen and (min-width: 980px) {
     
+}
+
+footer {
+    text-transform: uppercase;
+}
+
 form {
     color: black;
 	text-decoration:solid;
     margin-left: 15px;
 	font-size: 1rem }
-}
+
+    input[type=text], 
+    input[type=email]{
+        height: 15px;
+        width: 70%;
+        padding-left: 10px;
+        margin: 0 auto;}
