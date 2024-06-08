@@ -144,7 +144,6 @@ The live link can be found [here](https://gyamfi98.github.io/history-of-kloppo)
 | [BBC Sport](https://ichef.bbci.co.uk/ace/ws/624/cpsprodpb/E3D8/production/_111382385_1.topbodypic.copyrightingorath.jpg.webp) | home page | image | childhood Klopp |
 | [BBC Sport](https://ichef.bbci.co.uk/ace/ws/624/cpsprodpb/2470/production/_111382390_2.copyrightingorath.jpg.webp) | home page | image | childhood Klopp |
 | [BBC Sport](https://ichef.bbci.co.uk/news/1024/cpsprodpb/0D21/production/_111416330_jurenklopppromoingorath.png) | home page | image | childhood Klopp |
-| [Chat GPT](https://chatgpt.com/) | home page | image | ai generated image of Klopp |
 | [Ocuriosodofutebol](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin8_ed9qkDiZIGuy3aEXVCz4iykEjq0rrkwpxu1yC_b5OgTXWHf1GZ3CSAzItQSDIxoh5C-uCai3yFT8ftZiCJGEneia_yo9iMxYP0VXWo3kC2I_e37eWtJuOx5s275_suJHPj4x2Fnpc/w640-h336/ffc0adc5-4d34-4424-9c81-ef3147a32669.jpg) | home page | image | Klopp playing for mainz |
 | [Late Tackle Magazine](https://www.latetacklemagazine.com/wp-content/uploads/2015/12/klopp.jpg) | home page | image | Klopp playing for mainz |
 | [Sky Sports](https://e0.365dm.com/16/11/1600x900/skysports-jurgen-klopp-mainz-st-pauli_3830477.jpg?20161113101821) | home page | image | Klopp playing for mainz |
