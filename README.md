@@ -75,6 +75,7 @@ For the header and the informatioon section I used 'FFFFFF' to create a contrast
 - Video popups
     - Another feature I would look to implement on the site is video pop ups from interactions on certain parts of the page. I feel like this would engage the visitors and increase the engagement of the History of Kloppo
 
+## Tools & Technologies Used
 
 - [![Markdown Builder](https://img.shields.io/badge/Markdown_Builder-grey?logo=markdown&logoColor=000000)](https://tim.2bn.dev/markdown-builder) This was used to create the README template so that I could use to help me create my own version
 - [![Git](https://img.shields.io/badge/Git-grey?logo=git&logoColor=F05032)](https://git-scm.com) used to add commits and comments 
