@@ -1,3 +1,4 @@
+/* Give body base properties */
 body {
     font-family: 'Courier New', Courier, monospace;
     font-size: 18px;
@@ -6,6 +7,7 @@ body {
     margin: 2.5%;
 }
 
+/* Make scrolling smoother transition */
 html {
     scroll-behavior: smooth;
 }
@@ -37,7 +39,7 @@ h4 {
     text-align: end;
     text-transform: uppercase;
 }
-
+/* Code taken from tutorial to introduce hover feature */
 nav a:hover {
     background-color: black;
     color: darkgoldenrod;
@@ -66,7 +68,7 @@ nav a {
 .left {
     text-align: left;
 }
-
+/* Code taken from doe institute template to fix footer at bottom */
 footer {
 	background-color: darkgoldenrod;
     text-align: center;
@@ -79,7 +81,7 @@ footer {
 	z-index: 3;
     text-transform: uppercase;
 }
-
+/* Form properties */
 form {
     color: black;
 	text-decoration:solid;
@@ -94,7 +96,7 @@ form {
         height: 15px;
         width: 10%;
         margin: 0 auto;}
-
+/* Media queries */
         @media screen and (min-width: 980px) {
 
             footer {
