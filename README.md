@@ -47,7 +47,7 @@ For the header and the informatioon section I used 'FFFFFF' to create a contrast
 ### Existing Features
 
 - **Header** 
-- The header is completely blacked out with the white font color to draw attention to the main part of the page .
+- The header is completely blacked out with the white font color to draw attention to the main part of the page.
 ![screenshot](documentation/klopp-header.png)
 
 
@@ -77,13 +77,17 @@ For the header and the informatioon section I used 'FFFFFF' to create a contrast
 
 
 - [![Markdown Builder](https://img.shields.io/badge/Markdown_Builder-grey?logo=markdown&logoColor=000000)](https://tim.2bn.dev/markdown-builder) This was used to create the README template so that I could use to help me create my own version
-- [![Git](https://img.shields.io/badge/Git-grey?logo=git&logoColor=F05032)](https://git-scm.com) used to add commits and comments (`git add`, `git commit`, `git push`)
-- [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github&logoColor=181717)](https://github.com) used for secure online code storage.
+- [![Git](https://img.shields.io/badge/Git-grey?logo=git&logoColor=F05032)](https://git-scm.com) used to add commits and comments 
+- [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github&logoColor=181717)](https://github.com) used for online code storage.
 - [![Gitpod](https://img.shields.io/badge/Gitpod-grey?logo=gitpod&logoColor=FFAE33)](https://gitpod.io) used as a cloud-based IDE for development.
 - [![HTML](https://img.shields.io/badge/HTML-grey?logo=html5&logoColor=E34F26)](https://en.wikipedia.org/wiki/HTML) used for the main site content.
 - [![CSS](https://img.shields.io/badge/CSS-grey?logo=css3&logoColor=1572B6)](https://en.wikipedia.org/wiki/CSS) used to style the design and layout
 
 ## Testing
+- I tested page in different browsers like Google Chrome, Microsoft Edge, and Mozilla Firefox
+- I tested to make sure that the navigation bar links followed the right pathway and ended in the right sections
+- I made sure that the form works and that you can't submit without an input of the right information and that the buttons work
+- Tested to make sure that my images sit at a reasonable size no matter what screensize to make sure no information is lost to viewers on smaller screens.
 
 ### Validator Testing
 
