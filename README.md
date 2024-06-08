@@ -85,8 +85,23 @@ For the header and the informatioon section I used 'FFFFFF' to create a contrast
 
 ## Testing
 
-> [!NOTE]  
-> For all testing, please refer to the [TESTING.md](TESTING.md) file.
+### Validator Testing
+
+#### HTML
+- HTML passed W3C validator with no errors
+![screenshot](documentation/html-validator.png)
+
+#### CSS
+- CSS passed Jigsaw validator with no errors
+![screenshot](documentation/css-validator.png)
+
+#### Accessibility
+- History of Kloppo is accessible and easy to read and use, ran through lighthouse in devtools to check accessibility
+![screenshot](documentation/lightbox.png)
+
+#### Unfixed Bugs 
+- Footer trails off page on smaller dimensions leaving part of the form off the page 
+[screenshot](documentation/Screenshot%202024-06-08%20063749.png)
 
 ## Deployment
 
